@@ -14,3 +14,20 @@ A RESTful API for managing a To-Do List, built with **.NET Core 8**. Supports CR
 - SQL Server
 - Swagger
 - AutoMapper
+
+## Endpoints
+
+| Method | Endpoint                        | Description                          |
+|--------|---------------------------------|--------------------------------------|
+| GET    | `/api/Goal`                    | Retrieves all goals.                |
+| POST   | `/api/Goal`                    | Creates a new goal.                |
+| GET    | `/api/Goal/{id}`              | Retrieves a goal by ID.            |
+| PUT    | `/api/Goal/{id}`              | Updates a goal by ID.              |
+| DELETE | `/api/Goal/{id}`              | Deletes a goal by ID.              |
+| GET    | `/api/Goal/color/{color}`     | Retrieves goals by color (Hex code). |
+| GET    | `/api/Goal/dueDate/{dueDate}` | Retrieves goals by due date.       |
+| GET    | `/api/Goal/completed`         | Retrieves all completed goals.     |
+| GET    | `/api/Goal/pending`           | Retrieves all pending goals.       |
+
+
+## Thanks.
