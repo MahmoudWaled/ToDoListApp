@@ -1,0 +1,15 @@
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.deps.json
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.pdb
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\bin\Debug\net8.0\ToDoList.Domain.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\bin\Debug\net8.0\ToDoList.Domain.pdb
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.AssemblyReference.cache
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfoInputs.cache
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfo.cs
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.CoreCompileInputs.cache
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.ED2F2C6F.Up2Date
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\refint\ToDoList.Application.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.pdb
+H:\Projects\API projects\ToDoList.API\ToDoList.Application\obj\Debug\net8.0\ref\ToDoList.Application.dll

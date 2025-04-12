@@ -1,0 +1,11 @@
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.deps.json
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.pdb
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfoInputs.cache
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfo.cs
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\refint\ToDoList.Domain.dll
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.pdb
+H:\Projects\API projects\ToDoList.API\ToDoList.Domain\obj\Debug\net8.0\ref\ToDoList.Domain.dll
